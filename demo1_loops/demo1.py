@@ -9,7 +9,7 @@
 #for i in range(0,len(numbers)):
   #  if numbers[i]<=50:
   #      print(numbers[i])
-
+#Demo_Loops
 colors = ["red", "green", "yellow", "blue", "green", "black", "grey"]
 for n in colors:
     print(n)
